@@ -38,9 +38,3 @@ dat/gn_dat6
 		* SkillData.csv
 		* SkillData.sbs
 		* SkillEffect.csv
-	/dollImage
-		/reimforce
-			* skillInfo.png
-			* skill2Info.png
-		/status
-			* skillBase.png
