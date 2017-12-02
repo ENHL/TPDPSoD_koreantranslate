@@ -1,28 +1,30 @@
-HHH
+£¿£¿£¿
 
-‚Ë‚¥\b
+Àú±â£®\b
 \o
-EEEEEE\b
-\oHHH
-\c‚Ë‚¥ ‹N‚«‚Ä‚­‚ê‚È‚¢‚©‚µ‚çH\b
+¡¦¡¦¡¦¡¦¡¦.\b
+\o£¿£¿£¿
+\cÀá±ñ ´« Á» ¶° º¼·¡?\b
 \o
-EEEEEE\b
-\oHHH
-\c­‚µ‚¾‚¯‚¨˜b‚µ‚Ü‚µ‚åH\b
+¡¦¡¦¡¦¡¦¡¦.\b
+\o£¿£¿£¿
+\cÁ¶±Ý ÀÌ¾ß±â¸¦ ³ª´©°í ½Í¾î.\b
 \s955_03
-‚â‚Á‚Æ‹N‚«‚½B\b‚²‚«‚°‚ñ‚¢‚©‚ªH\b
+µåµð¾î ²£³×. ±âºÐÀº ¾î¶§?\b
 \x00
-Ž„H Ž„‚Í”ª‰_Ž‡B‚Í‚¶‚ß‚Ü‚µ‚Ä‚©‚µ‚ç‚ËH\b
-\oŽ‡
-“Ë‘R‚¾‚¯‚Ç ‚ ‚È‚½‚Í Œ¶‘z‹½‚Á‚Ä‚²‘¶’mH\b
-EEE’m‚ç‚È‚¢‚©‚µ‚çH\b
-\cŒ¶‘z‹½‚Æ‚¢‚¤‚Ì‚Í –Y‚ê‹Ž‚ç‚ê‚½‚à‚Ì‚ª‚½‚Ç‚è’…‚­êŠ‚È‚ÌB\b
-‚¢‚È‚¢‚Æ‚³‚ê‚Ä‚¢‚éƒ‚ƒm‚ª‘¶Ý‚·‚é¢ŠEB\b
+³ª? ³­ ¾ßÄí¸ð À¯Ä«¸®.
+Ã³À½ º¸´Â °Å°Ú³×.\b
+\oÀ¯Ä«¸®
+°©ÀÛ½º·´Áö¸¸, ´ç½ÅÀº È¯»óÇâÀ» ¾Ë¾Æ?\b
+¡¦¡¦¸ô¶ó?\b
+\cÈ¯»óÇâÀÌ¶õ, ÀØÇôÁø Á¸ÀçµéÀÌ
+´Ù´Ù¸£´Â °÷ÀÌ¾ß.\b
+¾ø¾î¾ß ÇÒ °ÍµéÀÌ Á¸ÀçÇÏ´Â ¼¼°è.\b
 \x01
-ƒAƒ„ƒJƒV‚Ì—Þ‚¢‚àEEE\b
+¿ä±«¿¡ ¼ÓÇÏ´Â ºÎ·ùµéµµ¡¦¡¦.\b
 \x03
-‚ ‚ç ‹»–¡‚ª‚ ‚é‚Æ‚¢‚¤Šç‚ËB\b
-‚Ó‚Ó‚Ó Ž„‚à‚ ‚È‚½‚É‹»–¡‚ª‚ ‚é‚ÌB\b
+¾î¸Ó, Èï¹Ì ÀÖ³ª º¸³×.\b
+ÈÄÈÄÈÄ. ³ªµµ ´ç½Å¿¡°Ô Èï¹Ì°¡ ÀÖ¾î.\b
 \x00
-‚¹‚Á‚©‚­‚¾‚©‚ç FX‚Æ•·‚¢‚Ä‚à‚¢‚¢‚©‚µ‚çH\b
-‚Ü‚¸‚Í ‚ ‚È‚½‚Ì«•Ê‚ð‹³‚¦‚Ä‚­‚ê‚éH
+¸ðÃ³·³ÀÌ´Ï±î, ¿©·¯°¡Áö µé·Á ÁÖÁö ¾ÊÀ»·¡?\b
+¸ÕÀú ´ç½ÅÀÇ ¼ºº°À» °¡¸£ÃÄÁÙ ¼ö ÀÖ°Ú¾î?
