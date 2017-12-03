@@ -1,5 +1,6 @@
 
 
-lŒ`ƒoƒgƒ‹‚ª—¬s‚Á‚Ä‚é‚Ý‚½‚¢‚¾‚Ë‚¥EEEB\b
-\c‹v‚µ‚Ô‚è‚É`‚³‚ñ‚ÌwSãY˜Ox‚ðŒ©‚½‚¢‚ñ‚¾‚¯‚Ç ‚µ‚Î‚ç‚­‚Í–³‚¢‚Ì‚©‚È‚ŸH\b
-\c”Ž—í‚Ì›Þ—‚à—¯Žç‚Ý‚½‚¢‚¾‚µB
+ÀÎÇü ¹èÆ²ÀÌ À¯ÇàÇÏ´Â °Í °°¾Æ¡¦.\b
+\c¿À·£¸¸¿¡ ÇÏÅ¸³ë ¾¾ÀÇ ¡º½É±â·ç¡»¸¦
+º¸°í ½ÍÀºµ¥ ´çÀåÀº ¾øÀ»±î?\b
+\cÇÏÄí·¹ÀÌÀÇ ¹«³àµµ ¾ø´Â °Í °°°í.
