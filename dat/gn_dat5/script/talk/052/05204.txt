@@ -1,7 +1,7 @@
-”ü—é
+¸ÞÀÌ¸µ
 040
-EEE‚Í‚¢H‚Ü‚¾‰½‚©Œä—p‚Å‚·‚©H\b
+¡¦¡¦³×? ¾ÆÁ÷µµ º¼ÀÏÀÌ ³²¾Æ ÀÖ¾î¿ä?\b
 \x03
-‚Ó‚ŸEEE‚¦‚¥ ‚¿‚á‚ñ‚Æ•·‚¢‚Ä‚Ü‚·‚æ[B\b
+ÄðÄð¡¦¡¦. ³×³× Àß µè°í ÀÖ¾î¿ä~¡¦¡¦.\b
 \s40_05
-EEEzzz
+¡¦¡¦zzz.
