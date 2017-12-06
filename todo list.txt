@@ -9,32 +9,18 @@ dat/gn_dat5
 	/map
 		/data:
 			* All the folders contain 3 files. the ***.mad files contain stuff relevant for translation of map names. (Untranslated)
-		/town:
-			* townMapData0.csv (Untranslated)
-			* townMapData1.csv (Untranslated)
-			* townMapData2.csv (Untranslated)
-			* townMapData3.csv (Untranslated)
 	/name:
-			* BgmData.csv
-			* ChipSetName.csv
-			* DollName.csv
-			* DollNameO.csv
-			* MapLocationName.csv
-			* MapName.csv
 			* StandName.csv
 	/script
 		/dollOperator:
 			* Contains the Trainer files. (Untranslated)
-		/shop
-			
+		/shop:
+			* ItemBuyList.csv
 		/talk:
 			* Contains the entire game's dialogue. (Untranslated)
 			
 dat/gn_dat6
 	/doll:
-		* AbilityData.csv
-		* Compatibility.csv
 		* DollCaption.csv
-		* SkillData.csv
 		* SkillData.sbs
 		* SkillEffect.csv
