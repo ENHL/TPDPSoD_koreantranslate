@@ -21,6 +21,5 @@ dat/gn_dat5
 			
 dat/gn_dat6
 	/doll:
-		* DollCaption.csv
 		* SkillData.sbs
 		* SkillEffect.csv
