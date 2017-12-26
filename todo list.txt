@@ -14,12 +14,5 @@ dat/gn_dat5
 	/script
 		/dollOperator:
 			* Contains the Trainer files. (Untranslated)
-		/shop:
-			* ItemBuyList.csv
 		/talk:
 			* Contains the entire game's dialogue. (Untranslated)
-			
-dat/gn_dat6
-	/doll:
-		* SkillData.sbs
-		* SkillEffect.csv
