@@ -1,22 +1,11 @@
-早苗
-Sanae
+사나에
 85
-\pさん 先ほどの方が結界を司っている靈夢さんです。\b
-\p-san, the lady you met earlier was the
-manager of the Barrier, Reimu-san.
+\p씨, 방금 만난 여성분은 레이무씨라고 결계의 관리자에요.
 \x05
-口ぶりからして やはり結界はまだ弱められそうになさそうですね……。\b
-From what she said, it's very unlikely that
-she'll condense the Barrier.
-\o魔理沙
-\oMarisa
+레이무씨가 말하기로는 결계를 강화하는건 흔한일이 아니라네요.
+\o마리사
 \s2
-ま そんな不安がることはないぜ！\b
-Don't you worry!
+걱정말라구!
 \x07
-私がパパッと解決してきてやるからさ！\b
-For ME, it's such a piece of cake.\b
-お前はここで早苗と日向ぼっこでもして待ってな。
-\cYou guys just enjoy your sunshine here and
-I'll get it done before you put on your
-sunglasses.\b
+나한테는 누워서 떡먹기니까.\b
+\c여기서 일광욕이나 하고있으라구! 마리사님이 선글라스도 끼기전에 끝내고 올테니깐!\b
