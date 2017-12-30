@@ -1,0 +1,56 @@
+대사 주소		문자열
+5A3A00(00304907)	TPDP Shard of Dreams
+5A3A18(18304907)	Enemy %s
+5A3A24(24304907)	%s withdraws %s!
+5A3A38(38304907)	Go! %s!
+5A3A40(40304907)	%s sent out %s!
+5A3A50(50304907)	Wild %s was distracted by %s!
+5A3A70(70304907)	Gotcha! Sealed %s!
+5A3A84(84304907)	But the seal failed...
+5A3A9C(9C304907)	%s! Come back!
+5A3AAC(AC304907)	%s has withdrawn %s!
+5A3AC4(C4304907)	%s has surrendered.
+5A3AD8(D8304907)	Defeated %s!
+5A3AE8(E8304907)	%s surrendered.
+5A3AF8(F8304907)	Lost to %s...
+5A3B08(08314907)	%s has tied!
+5A3B18(18314907)	Wild %s ran away!
+5A3B2C(2C314907)	Ran away from Wild %s!
+5A3B44(44314907)	Can't run away!
+5A3B54(54314907)	Wild %s has appeared!
+5A3B6C(6C314907)	%s\nwould like to battle!
+5A3B88(88314907)	%s %s\nwould like to battle!
+5A3BA8(A8314907)	%s has fainted!
+5A3BB8(B8314907)	Enemy %s has fainted!
+5A3BD0(D0314907)	Are you sure you want to surrender?
+5A3BF4(F4314907)	%s's %s has dropped!
+5A3C0C(0C324907)	%s's Water Veil prevents status drops!
+5A3C34(34324907)	%s's %s rose!
+5A3C44(44324907)	%s's %s fell!
+5A3C54(54324907)	%s's %s rose by %s stages!
+5A3C70(70324907)	%s's %s fell by %s stages!
+5A3C8C(8C324907)	%s's %s can't go any higher!
+5A3CAC(AC324907)	%s's %s can't go any lower!
+5A3CC8(C8324907)	%s used %s!
+5A3CD4(D4324907)	Critical hit!
+5A3CE4(E4324907)	The skill passed through the barrier!
+5A3D0C(0C334907)	Skill couldn't penetrate the barrier!
+5A3D34(34334907)	Slow
+5A3D3C(3C334907)	Norm
+5A3D44(44334907)	Fast
+5A3D4C(4C334907)	Show
+5A3D54(54334907)	Hide
+5A3D5C(5C334907)	Doll
+5A3D64(64334907)	Player
+5A3D6C(6C334907)	Unset
+5A3D74(74334907)	Lock
+5A3D7C(7C334907)	Full
+5A3D84(84334907)	Half
+5A3D8C(8C334907)	Pad   %d ↑
+5A3D98(98334907)	Pad   %d ↓
+5A3DA4(A4334907)	Pad   %d ←
+5A3DB0(B0334907)	Pad   %d →
+5A3DBC(BC334907)	Pad   %d Button%d
+5A3DD0(D0334907)	Press [Esc] to cancel any changes.
+5A3DF4(F4334907)	%d/%d/%d %d:%02d\n
+5A3E08(08344907)	%s ver%.3f (Interface Translation) [%04.1ffps]
