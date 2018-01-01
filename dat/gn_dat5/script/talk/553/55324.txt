@@ -1,8 +1,8 @@
-ƒNƒ‰ƒEƒ“ƒs[ƒX
+Å¬¶ó¿îÇÇ½º
 129_02
-‚  ‚ ‚È‚½—l‚ÍEEEB\b
+´Ù, ´ç½ÅÀº...\b
 \x00
-‚¢ ‚¢‚â ‚¢‚Â‚Ü‚Å‚à•|‹C‚Ã‚­ ‚ ‚½‚¢‚¶‚á‚ ‚È‚¢‚íI\b
-‚ ‚½‚¢‚ÌÅ‹¶‚Ì—ÍI¡ˆê“x–¡‚í‚¤‚ª‚¢‚¢I\b
+¾Æ ¾Æ´Ï ¾ðÁ¦±îÁö°í °Ì¸Ô°í ÀÖÀ» ³»°¡ ¾Æ³Ä!\b
+³» ÃÖ±¤(õÌÎÊ)ÀÇ Èû! Áö±Ý ÇÑ ¹ø ¸Àº¸µµ·Ï!\b
 \x01
-ƒCƒbƒc ƒ‹ƒiƒeƒbƒBƒNƒ^[ƒCƒ€I
+It's Lunartic Time!
