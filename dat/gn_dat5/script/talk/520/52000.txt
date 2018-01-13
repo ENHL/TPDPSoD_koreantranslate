@@ -1,26 +1,26 @@
-—•
+¶õ
 54
-‚¨‚Á •‘“¬‰ï‚ÉŽQ‰ÁEEE\b
+¾ù, ¹«ÅõÈ¸¿¡ Âü°¡...\b
 \x01
-‚·‚é‚Ì‚©‚¢H\b
-\oƒ}ƒKƒ“
+ÇÒ°Å´Ï?\b
+\o¸¶°£
 \s4_3
-EEEI\b
+...!\b
 \o—•
 \j54_01
-‚» ‚»‚¤‚©I\b
-‚È‚ç ‚±‚±‚É‹L“ü‚ðEEE\b
+±×, ±×·±°¡!\b
+±×·³ ¿©±â¿¡ ±âÀÔÀ»...\b
 \x02
 –³—‚¾‚æ‚ÈB\b
-\oƒ}ƒKƒ“
+\o?ƒKƒ“
 \s4_2
 EEEB\b
 \o—•
 \j54_02
 ‚ ‚ŸI‹C‚ð—Ž‚Æ‚³‚È‚¢‚Å‚­‚êI\b
 \x00
-‚à‚¿‚ë‚ñ ‚±‚¿‚ç‚Å“o˜^‚µ‚Ä‚¨‚±‚¤B\b
+‚à‚¿‚ë‚ñ ‚±‚¿‚ç‚Å“o?‚µ‚Ä‚¨‚±‚¤B\b
 S”z‚µ‚È‚¢‚Å‚­‚êI\b
-\oƒ}ƒKƒ“
+\o?ƒKƒ“
 \s4_3
 EEEI
