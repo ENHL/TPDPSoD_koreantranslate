@@ -1,16 +1,16 @@
-ƒNƒ‰ƒEƒ“ƒs[ƒX
+Å¬¶ó¿îÇÇ½º
 129_02
-‚²Žål—l‚É Ž¶‚ç‚ê‚Ä‚µ‚Ü‚Á‚½EEEB\b
-‚ ‚½‚¢‚Í ‚¨lŒ`‚Æ—V‚ñ‚Å‚¢‚½‚¾‚¯‚È‚Ì‚É[B\b
+ÁÖÀÎ´ÔÇÑÅ× È¥³µ¾î¡¦ \b
+³ª´Â ÀÎÇüÇÏ°í ³î°í ÀÖ¾úÀ» »ÓÀÎµ¥¡¦ \b
 \x00
-EEE‚»‚¤‚¢‚¦‚Î ‚ ‚Ì“ƒ‚É‹‚½—d¸’B‚¾‚¯‚Ç
-‚ ‚¢‚Â‚ç‚Í ‚Ü‚¾‚Ü‚¾—V‚Ñ‘«‚è‚Ä‚È‚¢‚Ý‚½‚¢B\b
-\c‰É‚¾‚Á‚½‚ç‚Ü‚½—V‚Ñ‚És‚Á‚Ä‚ËB\b
-•¨‘«‚è‚È‚¢‚Ì‚È‚ç ‚ ‚½‚¢‚ª¼–¾‚ÌŒõ—‚Ñ‚¹‚Ä‚ ‚°‚é‚©‚ç‚³[B\b
-\cEEE‚¦H‚ ‚½‚¢‚Í‚à‚¤‚¢‚¢‚Ì‚©‚Á‚ÄH\b
-\oƒwƒJ[ƒeƒBƒA
+¡¦±×·¯°íº¸´Ï Àú Å¾¿¡ ÀÖ´ø ¿äÁ¤µé ¸»ÀÎµ¥
+°Â³×µéÀº ¾ÆÁ÷ ½É½ÉÇÑ ¸ð¾çÀÌ¾ß. \b
+\c½É½ÉÇÏ¸é ¶Ç ³î·¯ °¡Áà. \b
+³Êµµ ³ë´Â °Ô ºÎÁ·Çß´Ù¸é ³»°¡ È¶ºÒ·Î ºñÃçÁÙ°Ô. \b
+\c¡¦ÀÀ? ³ª´Â ÀÌÁ¦ ±¦Âú³Ä°í? \b
+\oÇìÄ«Æ¼¾Æ
 \s131_01
-EEEEEEB\b
-\oƒNƒ‰ƒEƒ“ƒs[ƒX
+¡¦¡¦¡¦¡¦\b
+\oÅ¬¶ó¿îÇÇ½º
 \s129_02
-EEE‚¤‚ñB‚ ‚½‚¢‚Í‚à‚¤“–•ª‚¨lŒ`—V‚Ñ‚Í‚¢‚¢‚©‚ÈB
+¡¦ÀÀ. ³ª´Â ÀÌÁ¦ ´çºÐ°£ ÀÎÇü³îÀÌ´Â ¾È ÇÒ °Å¾ß.
